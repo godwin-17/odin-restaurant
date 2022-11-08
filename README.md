@@ -48,3 +48,7 @@ Image 8 (Fried Rice): https://unsplash.com/photos/dTNNDTbZr8I
 Image by: [Mae Mu](https://unsplash.com/@picoftasty)
 
 ---
+
+### Favicon
+Favicon: https://icons8.com/icon/z8n7oFrg8cId/restaurant-building
+Favicon from [Icons8](https://icons8.com/)
