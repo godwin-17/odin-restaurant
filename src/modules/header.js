@@ -18,7 +18,7 @@ function loadHeader() {
 
   const listItem2 = document.createElement("li");
   listItem2.classList.add("menu");
-  listItem2.textContent = "Menù";
+  listItem2.textContent = "Menu";
 
   const listItem3 = document.createElement("li");
   listItem3.classList.add("contacts");
