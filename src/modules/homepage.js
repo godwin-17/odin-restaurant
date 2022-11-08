@@ -35,14 +35,8 @@ function loadHomepage() {
   images.appendChild(restaurantImg);
   images.appendChild(chefImg);
 
-
-  const footer = document.createElement("footer");
-  footer.classList.add("footer");
-  footer.textContent = "Made by godwin-17";
-
   homepage.appendChild(presentation);
   homepage.appendChild(images);
-  homepage.appendChild(footer);
 
   const content = document.querySelector("#content");
   content.appendChild(homepage);
