@@ -1,9 +1,11 @@
 import './style.css';
 import header from './modules/header.js';
+import footer from './modules/footer.js';
 import home from './modules/homepage.js';
 import contact from './modules/contact.js';
 
 header();
+footer();
 home();
 // contact();
 
