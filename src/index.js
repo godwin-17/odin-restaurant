@@ -1,13 +1,13 @@
-import './style.css';
-import header from './modules/header.js';
-import footer from './modules/footer.js';
-import home from './modules/homepage.js';
-import contact from './modules/contact.js';
+import "./style.css";
+import header from "./modules/header.js";
+import footer from "./modules/footer.js";
+import home from "./modules/homepage.js";
+import menu from "./modules/menu.js";
+import contact from "./modules/contact.js";
 
 header();
 footer();
 home();
-// contact();
 
 const homeBtn = document.querySelector("li.home");
 const menuBtn = document.querySelector("li.menu");
@@ -20,7 +20,7 @@ homeBtn.addEventListener("click", () => {
 
 menuBtn.addEventListener("click", () => {
   document.querySelector("#content").innerHTML = "";
-  /* Add menu code here */
+  menu();
 });
 
 contactsBtn.addEventListener("click", () => {
