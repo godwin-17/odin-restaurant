@@ -1,6 +1,8 @@
 # odin-restaurant
 This is the Restaurant project form The Odin Project Javascript Path.
 
+[Live Demo](https://godwin-17.github.io/odin-restaurant/)
+
 ---
 
 ## Images:
